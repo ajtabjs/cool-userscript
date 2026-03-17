@@ -2,6 +2,7 @@
 // @name        cool userscritp!!! totally not a bug
 // @namespace   aj
 // @match       *://*/*
+// @require https://cdn.jsdelivr.net/npm/@violentmonkey/dom@2
 // @icon
 // @grant       none
 // @version     1.0
