@@ -13,7 +13,7 @@
 (function() {
     'use strict';
 
-   var tab = document.getElementsByTagName("title")
+   var text = "new"
 
-tab.textContent = "test";
+document.title = text;
 })();
