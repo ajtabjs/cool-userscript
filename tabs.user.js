@@ -13,7 +13,7 @@
 (function() {
     'use strict';
 
-   var text = "new"
+   var text = "new";
 
 document.title = text;
 })();
